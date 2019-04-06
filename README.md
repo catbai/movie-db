@@ -13,3 +13,6 @@ Installs the node modules folder
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### `npm test`
+
+Runs the tests in the repository.
